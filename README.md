@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Castro👋
+## Olá! Eu sou o Gabriel Castro
 
 ###  Um pouco sobre mim 👦
 - 🙋🏻‍♂️ Tenho 17 anos
