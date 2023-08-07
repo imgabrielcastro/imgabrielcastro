@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Castro
 
 ###  Um pouco sobre mim 👦
-- 🙋🏻‍♂️ Tenho 17 anos
+- 🙋🏻‍♂️ Tenho 18 anos
 - 🔭 Hoje trabalho como Jovem Aprendiz na empresa Eliane
 - 💻 Estou cursando técnico de informática na SATC
 - 🧐 Pretendo futuramente trabalhar como programador
