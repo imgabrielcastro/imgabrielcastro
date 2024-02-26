@@ -2,8 +2,8 @@
 
 ###  Um pouco sobre mim 👦
 - 🙋🏻‍♂️ Tenho 18 anos
-- 🔭 Hoje trabalho como Jovem Aprendiz na empresa Eliane
-- 💻 Estou cursando técnico de informática na SATC
+- 🔭 Hoje trabalho como Suporte Técnico na empresa Next Fit
+- 💻 Estou fazendo faculdade de Engenharia de Software na UniSatc
 - 🧐 Pretendo futuramente trabalhar como programador
 - 😎 Linguagens de programação: JAVA, Python, CSS, PHP e C#.
 
