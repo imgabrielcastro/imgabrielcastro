@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Castro
 
 ###  Um pouco sobre mim 👦
-- 🙋🏻‍♂️ Tenho 18 anos
+- 🙋🏻‍♂️ Tenho 19 anos
 - 🔭 Hoje trabalho como Suporte Técnico na empresa Next Fit
 - 💻 Estou fazendo faculdade de Engenharia de Software na UniSatc
 - 🧐 Pretendo futuramente trabalhar como programador
