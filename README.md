@@ -2,7 +2,7 @@
 
 ###  Um pouco sobre mim 👦
 - 🙋🏻‍♂️ Tenho 19 anos
-- 🔭 Hoje trabalho como Suporte Técnico na empresa Next Fit
+- 🔭 Hoje trabalho como Especialista em Equipamentos na empresa NextFit
 - 💻 Estou fazendo faculdade de Engenharia de Software na UniSatc
 - 🧐 Pretendo futuramente trabalhar como programador
 - 😎 Linguagens de programação: JavaScript e Python.
