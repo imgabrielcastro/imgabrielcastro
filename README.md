@@ -18,8 +18,7 @@
 
 ## O que estou aprendendo no momento 📚
 
-- **Desenvolvimento Frontend:** Estudando **React** para criar interfaces dinâmicas e interativas
-- **JavaScript com foco em Requisições:** Melhorando minhas habilidades em JavaScript, especialmente no uso de **fetch** e **AJAX** para requisições assíncronas e integração com APIs
+- **Desenvolvimento Frontend:** Estudando **React** para criar interfaces dinâmicas e interativas e assim poder partir para o React Native que é o que desejo trabalhar.
 - **Desenvolvimento Backend:** Aperfeiçoando meus conhecimentos em **Node.js**, **Express** e **PostgreSQL**
 - **Boas Práticas de Desenvolvimento:** Buscando sempre melhorar minha qualidade de código e otimizar processos
 
