@@ -12,7 +12,7 @@
 ## Tecnologias que eu utilizo 🚀
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, PostgreSQL
+- **Backend:** Node.js e Express
 - **Banco de Dados:** PostgreSQL e MySQL
 - **Outras Ferramentas:** Git, GitHub, Postman
 
