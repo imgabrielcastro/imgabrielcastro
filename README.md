@@ -2,7 +2,7 @@
 
 ## Um pouco sobre mim 👦
 
-- 🙋🏻‍♂️ Tenho 19 anos
+- 🙋🏻‍♂️ Tenho 20 anos
 - 🔭 Hoje trabalho como Especialista em Equipamentos na empresa NextFit
 - 💻 Estou cursando Engenharia de Software na UniSatc
 - 🖥️ Tenho experiência com **JavaScript**, **Python**, **Node.js** e **PostgreSQL**
