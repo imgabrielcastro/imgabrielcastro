@@ -30,10 +30,6 @@
 
 ---
 
-## GitHub Stats & Activity 📊
-
-![Gabriel Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgabrielcastro&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true)
-
 ### Linguagens mais usadas:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imgabrielcastro&layout=compact&theme=radical)
