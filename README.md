@@ -5,7 +5,7 @@
 - 🙋🏻‍♂️ Tenho 20 anos
 - 🔭 Hoje trabalho como Especialista em Equipamentos na empresa NextFit
 - 💻 Estou cursando Engenharia de Software na UniSatc
-- 🖥️ Tenho experiência com **JavaScript**, **Python**, **Node.js** e **PostgreSQL**
+- 🖥️ Tenho experiência com **JavaScript**, **Python**, **Node.js**, **PostgreSQL** e **React JS**. 
 - 🎯 Meu objetivo é me tornar um **desenvolvedor mobile** e aprimorar minhas habilidades para criar soluções inovadoras e impactantes
 - 😎 Estou sempre buscando aprender e melhorar
 
