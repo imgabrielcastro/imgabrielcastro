@@ -11,15 +11,14 @@
 
 ## Tecnologias que eu utilizo 🚀
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, React JS e React Native
 - **Backend:** Node.js e Express
 - **Banco de Dados:** PostgreSQL e MySQL
 - **Outras Ferramentas:** Git, GitHub, Postman
 
 ## O que estou aprendendo no momento 📚
 
-- **Desenvolvimento Frontend:** Estudando **React** para criar interfaces dinâmicas e interativas e assim poder partir para o React Native que é o que desejo trabalhar.
-- **Desenvolvimento Backend:** Aperfeiçoando meus conhecimentos em **Node.js**, **Express** e **PostgreSQL**
+- **Desenvolvimento Frontend:** Estudando **React Native** para criar interfaces dinâmicas e interativas que é o que desejo trabalhar.
 - **Boas Práticas de Desenvolvimento:** Buscando sempre melhorar minha qualidade de código e otimizar processos
 
 ## Minhas metas profissionais 🎯
