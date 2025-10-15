@@ -6,7 +6,7 @@
 - 🔭 Hoje trabalho como Especialista em Equipamentos na empresa NextFit
 - 💻 Estou cursando Engenharia de Software na UniSatc
 - 🖥️ Tenho experiência com **JavaScript**, **TypeScript**, **Python**, **Node.js**, **PostgreSQL** e **React JS** e **React Native**. 
-- 🎯 Meu objetivo é me tornar um **desenvolvedor mobile** e aprimorar minhas habilidades para criar soluções inovadoras e impactantes
+- 🎯 Meu objetivo é aprimorar minhas habilidades para criar soluções inovadoras e impactantes
 - 😎 Estou sempre buscando aprender e melhorar
 
 ## Tecnologias que eu utilizo 🚀
